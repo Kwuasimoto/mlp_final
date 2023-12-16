@@ -1,7 +1,0 @@
-transformers >= 4.35.2
-PIL >= 9.0.1
-numpy >= 1.26.2
-torch >= 2.1.1
-torchvision >= 0.16.1
-matplotlib >= 3.8.2
-seaborn>=0.13.0
